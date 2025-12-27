@@ -1,0 +1,2 @@
+# fastmcp-poc
+Learning FastMCP
